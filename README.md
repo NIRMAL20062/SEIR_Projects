@@ -1,1 +1,3 @@
 # SEIR
+
+University Assignments
